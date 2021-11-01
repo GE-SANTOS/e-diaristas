@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EDiaristasApplication<e-diaristas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.treinaweb.ediaristas.EDiaristasApplication",
+            "projectName": "e-diaristas",
+            "args": ""
+        }
+    ]
+}
